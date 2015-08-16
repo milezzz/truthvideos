@@ -2,7 +2,7 @@
 <addon id="plugin.video.docu"
 	name="Truth Videos"
 	version="1.0.0"
-	provider-name="L33T_GUY">
+	provider-name="L33TGUY">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -12,9 +12,10 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Truth Videos</summary>
-    <description lang="en">Just a collection of alternative news and documentary sources.</description>
+    <summary lang="en">TRUTH VIDEOS</summary>
+    <description lang="en">WAKE UP SHEEPLE!  Follow, comment, support via twitter @truth_videos</description>
     <platform>all</platform>
+    <forum>n/a</forum>
     <website>http://www.twitter.com/truth_videos</website>
   </extension>
 </addon>

@@ -13,7 +13,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Truth Videos</summary>
-    <description lang="en">Are you interested in documentaries revolving around conspiracy theories, occult, UFOs, etc? This is the addon you're looking for.</description>
+    <description lang="en">Just a collection of alternative news and documentary sources.</description>
     <platform>all</platform>
     <website>http://www.twitter.com/truth_videos</website>
   </extension>
